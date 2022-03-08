@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background: linear-gradient(to right, #9dd8ff, #031296);
+    padding: 20px 20px ;
+    margin-bottom: 20px;
+       
+}
+
+h1{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-bottom: 20px;
+}
+
